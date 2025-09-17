@@ -1,150 +1,150 @@
-h st. dev. 0.010000 : average moment 1.000000 : largest cluster 4096
-h st. dev. 0.020000 : average moment 1.000000 : largest cluster 4096
-h st. dev. 0.030000 : average moment 1.000000 : largest cluster 4096
-h st. dev. 0.040000 : average moment 1.000000 : largest cluster 4096
-h st. dev. 0.050000 : average moment 1.000000 : largest cluster 2408
-h st. dev. 0.060000 : average moment 1.000000 : largest cluster 1133
-h st. dev. 0.070000 : average moment 1.000000 : largest cluster 498
-h st. dev. 0.080000 : average moment 1.000000 : largest cluster 547
-h st. dev. 0.090000 : average moment 1.000000 : largest cluster 394
-h st. dev. 0.100000 : average moment 1.000000 : largest cluster 155
-h st. dev. 0.110000 : average moment 1.000000 : largest cluster 111
-h st. dev. 0.120000 : average moment 1.000000 : largest cluster 82
-h st. dev. 0.130000 : average moment 1.000000 : largest cluster 85
-h st. dev. 0.140000 : average moment 1.000000 : largest cluster 55
-h st. dev. 0.150000 : average moment 1.000000 : largest cluster 49
-h st. dev. 0.160000 : average moment 1.000000 : largest cluster 35
-h st. dev. 0.170000 : average moment 1.000000 : largest cluster 32
-h st. dev. 0.180000 : average moment 1.000000 : largest cluster 29
-h st. dev. 0.190000 : average moment 1.000000 : largest cluster 19
-h st. dev. 0.200000 : average moment 0.999999 : largest cluster 19
-h st. dev. 0.210000 : average moment 1.000000 : largest cluster 15
-h st. dev. 0.220000 : average moment 0.999998 : largest cluster 18
-h st. dev. 0.230000 : average moment 0.999999 : largest cluster 12
-h st. dev. 0.240000 : average moment 1.000000 : largest cluster 13
-h st. dev. 0.250000 : average moment 1.000000 : largest cluster 9
-h st. dev. 0.260000 : average moment 0.999996 : largest cluster 8
-h st. dev. 0.270000 : average moment 0.999994 : largest cluster 7
-h st. dev. 0.280000 : average moment 0.999991 : largest cluster 6
-h st. dev. 0.290000 : average moment 0.999979 : largest cluster 5
-h st. dev. 0.300000 : average moment 0.999967 : largest cluster 4
-h st. dev. 0.310000 : average moment 0.999962 : largest cluster 3
-h st. dev. 0.320000 : average moment 0.999932 : largest cluster 2
-h st. dev. 0.330000 : average moment 0.999901 : largest cluster 1
-h st. dev. 0.340000 : average moment 0.999880 : largest cluster 1
-h st. dev. 0.350000 : average moment 0.999813 : largest cluster 1
-h st. dev. 0.360000 : average moment 0.999753 : largest cluster 1
-h st. dev. 0.370000 : average moment 0.999696 : largest cluster 1
-h st. dev. 0.380000 : average moment 0.999622 : largest cluster 1
-h st. dev. 0.390000 : average moment 0.999505 : largest cluster 1
-h st. dev. 0.400000 : average moment 0.999403 : largest cluster 1
-h st. dev. 0.410000 : average moment 0.999344 : largest cluster 1
-h st. dev. 0.420000 : average moment 0.999107 : largest cluster 1
-h st. dev. 0.430000 : average moment 0.998921 : largest cluster 1
-h st. dev. 0.440000 : average moment 0.998802 : largest cluster 1
-h st. dev. 0.450000 : average moment 0.998567 : largest cluster 1
-h st. dev. 0.460000 : average moment 0.998353 : largest cluster 1
-h st. dev. 0.470000 : average moment 0.998086 : largest cluster 1
-h st. dev. 0.480000 : average moment 0.997869 : largest cluster 1
-h st. dev. 0.490000 : average moment 0.997736 : largest cluster 1
-h st. dev. 0.500000 : average moment 0.997417 : largest cluster 1
-h st. dev. 0.510000 : average moment 0.997116 : largest cluster 1
-h st. dev. 0.520000 : average moment 0.996670 : largest cluster 2
-h st. dev. 0.530000 : average moment 0.996267 : largest cluster 2
-h st. dev. 0.540000 : average moment 0.995867 : largest cluster 2
-h st. dev. 0.550000 : average moment 0.995530 : largest cluster 1
-h st. dev. 0.560000 : average moment 0.994883 : largest cluster 1
-h st. dev. 0.570000 : average moment 0.994450 : largest cluster 2
-h st. dev. 0.580000 : average moment 0.993900 : largest cluster 1
-h st. dev. 0.590000 : average moment 0.993246 : largest cluster 2
-h st. dev. 0.600000 : average moment 0.992785 : largest cluster 2
-h st. dev. 0.610000 : average moment 0.991995 : largest cluster 3
-h st. dev. 0.620000 : average moment 0.991265 : largest cluster 3
-h st. dev. 0.630000 : average moment 0.990744 : largest cluster 4
-h st. dev. 0.640000 : average moment 0.989733 : largest cluster 5
-h st. dev. 0.650000 : average moment 0.988936 : largest cluster 2
-h st. dev. 0.660000 : average moment 0.987720 : largest cluster 4
-h st. dev. 0.670000 : average moment 0.986547 : largest cluster 6
-h st. dev. 0.680000 : average moment 0.985652 : largest cluster 2
-h st. dev. 0.690000 : average moment 0.984158 : largest cluster 3
-h st. dev. 0.700000 : average moment 0.983557 : largest cluster 4
-h st. dev. 0.710000 : average moment 0.981701 : largest cluster 5
-h st. dev. 0.720000 : average moment 0.980273 : largest cluster 6
-h st. dev. 0.730000 : average moment 0.978771 : largest cluster 5
-h st. dev. 0.740000 : average moment 0.976506 : largest cluster 6
-h st. dev. 0.750000 : average moment 0.974996 : largest cluster 4
-h st. dev. 0.760000 : average moment 0.972934 : largest cluster 4
-h st. dev. 0.770000 : average moment 0.970772 : largest cluster 12
-h st. dev. 0.780000 : average moment 0.969554 : largest cluster 6
-h st. dev. 0.790000 : average moment 0.967039 : largest cluster 8
-h st. dev. 0.800000 : average moment 0.964313 : largest cluster 6
-h st. dev. 0.810000 : average moment 0.961065 : largest cluster 5
-h st. dev. 0.820000 : average moment 0.958603 : largest cluster 6
-h st. dev. 0.830000 : average moment 0.955347 : largest cluster 6
-h st. dev. 0.840000 : average moment 0.951933 : largest cluster 9
-h st. dev. 0.850000 : average moment 0.946618 : largest cluster 12
-h st. dev. 0.860000 : average moment 0.940066 : largest cluster 10
-h st. dev. 0.870000 : average moment 0.937863 : largest cluster 9
-h st. dev. 0.880000 : average moment 0.930160 : largest cluster 7
-h st. dev. 0.890000 : average moment 0.924417 : largest cluster 9
-h st. dev. 0.900000 : average moment 0.920970 : largest cluster 11
-h st. dev. 0.910000 : average moment 0.912484 : largest cluster 17
-h st. dev. 0.920000 : average moment 0.907505 : largest cluster 12
-h st. dev. 0.930000 : average moment 0.891009 : largest cluster 15
-h st. dev. 0.940000 : average moment 0.879916 : largest cluster 11
-h st. dev. 0.950000 : average moment 0.871428 : largest cluster 10
-h st. dev. 0.960000 : average moment 0.860138 : largest cluster 12
-h st. dev. 0.970000 : average moment 0.845464 : largest cluster 12
-h st. dev. 0.980000 : average moment 0.825643 : largest cluster 12
-h st. dev. 0.990000 : average moment 0.804548 : largest cluster 12
-h st. dev. 1.000000 : average moment 0.787707 : largest cluster 15
-h st. dev. 1.010000 : average moment 0.768479 : largest cluster 13
-h st. dev. 1.020000 : average moment 0.746442 : largest cluster 16
-h st. dev. 1.030000 : average moment 0.724236 : largest cluster 13
-h st. dev. 1.040000 : average moment 0.684446 : largest cluster 14
-h st. dev. 1.050000 : average moment 0.674604 : largest cluster 13
-h st. dev. 1.060000 : average moment 0.643551 : largest cluster 18
-h st. dev. 1.070000 : average moment 0.610007 : largest cluster 15
-h st. dev. 1.080000 : average moment 0.594147 : largest cluster 15
-h st. dev. 1.090000 : average moment 0.561462 : largest cluster 18
-h st. dev. 1.100000 : average moment 0.547534 : largest cluster 18
-h st. dev. 1.110000 : average moment 0.526948 : largest cluster 22
-h st. dev. 1.120000 : average moment 0.505852 : largest cluster 17
-h st. dev. 1.130000 : average moment 0.477421 : largest cluster 16
-h st. dev. 1.140000 : average moment 0.487439 : largest cluster 16
-h st. dev. 1.150000 : average moment 0.443615 : largest cluster 17
-h st. dev. 1.160000 : average moment 0.440224 : largest cluster 15
-h st. dev. 1.170000 : average moment 0.422523 : largest cluster 17
-h st. dev. 1.180000 : average moment 0.406063 : largest cluster 17
-h st. dev. 1.190000 : average moment 0.385311 : largest cluster 15
-h st. dev. 1.200000 : average moment 0.366852 : largest cluster 20
-h st. dev. 1.210000 : average moment 0.359713 : largest cluster 17
-h st. dev. 1.220000 : average moment 0.346021 : largest cluster 18
-h st. dev. 1.230000 : average moment 0.341920 : largest cluster 21
-h st. dev. 1.240000 : average moment 0.331912 : largest cluster 28
-h st. dev. 1.250000 : average moment 0.325589 : largest cluster 23
-h st. dev. 1.260000 : average moment 0.307852 : largest cluster 19
-h st. dev. 1.270000 : average moment 0.296718 : largest cluster 20
-h st. dev. 1.280000 : average moment 0.295024 : largest cluster 21
-h st. dev. 1.290000 : average moment 0.290479 : largest cluster 23
-h st. dev. 1.300000 : average moment 0.278434 : largest cluster 21
-h st. dev. 1.310000 : average moment 0.293830 : largest cluster 21
-h st. dev. 1.320000 : average moment 0.269409 : largest cluster 19
-h st. dev. 1.330000 : average moment 0.259180 : largest cluster 18
-h st. dev. 1.340000 : average moment 0.263348 : largest cluster 18
-h st. dev. 1.350000 : average moment 0.254332 : largest cluster 19
-h st. dev. 1.360000 : average moment 0.245192 : largest cluster 20
-h st. dev. 1.370000 : average moment 0.238633 : largest cluster 20
-h st. dev. 1.380000 : average moment 0.229081 : largest cluster 20
-h st. dev. 1.390000 : average moment 0.240372 : largest cluster 22
-h st. dev. 1.400000 : average moment 0.238042 : largest cluster 16
-h st. dev. 1.410000 : average moment 0.232807 : largest cluster 20
-h st. dev. 1.420000 : average moment 0.221434 : largest cluster 18
-h st. dev. 1.430000 : average moment 0.211230 : largest cluster 18
-h st. dev. 1.440000 : average moment 0.224397 : largest cluster 19
-h st. dev. 1.450000 : average moment 0.215131 : largest cluster 18
-h st. dev. 1.460000 : average moment 0.211967 : largest cluster 17
-h st. dev. 1.470000 : average moment 0.195973 : largest cluster 18
-h st. dev. 1.480000 : average moment 0.203332 : largest cluster 20
-h st. dev. 1.490000 : average moment 0.196028 : largest cluster 20
-h st. dev. 1.500000 : average moment 0.195912 : largest cluster 21
+0.010000 : 1.000000 : 4096
+0.020000 : 1.000000 : 4096
+0.030000 : 1.000000 : 4096
+0.040000 : 1.000000 : 4096
+0.050000 : 1.000000 : 2408
+0.060000 : 1.000000 : 1133
+0.070000 : 1.000000 : 498
+0.080000 : 1.000000 : 547
+0.090000 : 1.000000 : 394
+0.100000 : 1.000000 : 155
+0.110000 : 1.000000 : 111
+0.120000 : 1.000000 : 82
+0.130000 : 1.000000 : 85
+0.140000 : 1.000000 : 55
+0.150000 : 1.000000 : 49
+0.160000 : 1.000000 : 35
+0.170000 : 1.000000 : 32
+0.180000 : 1.000000 : 29
+0.190000 : 1.000000 : 19
+0.200000 : 0.999999 : 19
+0.210000 : 1.000000 : 15
+0.220000 : 0.999998 : 18
+0.230000 : 0.999999 : 12
+0.240000 : 1.000000 : 13
+0.250000 : 1.000000 : 9
+0.260000 : 0.999996 : 8
+0.270000 : 0.999994 : 7
+0.280000 : 0.999991 : 6
+0.290000 : 0.999979 : 5
+0.300000 : 0.999967 : 4
+0.310000 : 0.999962 : 3
+0.320000 : 0.999932 : 2
+0.330000 : 0.999901 : 1
+0.340000 : 0.999880 : 1
+0.350000 : 0.999813 : 1
+0.360000 : 0.999753 : 1
+0.370000 : 0.999696 : 1
+0.380000 : 0.999622 : 1
+0.390000 : 0.999505 : 1
+0.400000 : 0.999403 : 1
+0.410000 : 0.999344 : 1
+0.420000 : 0.999107 : 1
+0.430000 : 0.998921 : 1
+0.440000 : 0.998802 : 1
+0.450000 : 0.998567 : 1
+0.460000 : 0.998353 : 1
+0.470000 : 0.998086 : 1
+0.480000 : 0.997869 : 1
+0.490000 : 0.997736 : 1
+0.500000 : 0.997417 : 1
+0.510000 : 0.997116 : 1
+0.520000 : 0.996670 : 2
+0.530000 : 0.996267 : 2
+0.540000 : 0.995867 : 2
+0.550000 : 0.995530 : 1
+0.560000 : 0.994883 : 1
+0.570000 : 0.994450 : 2
+0.580000 : 0.993900 : 1
+0.590000 : 0.993246 : 2
+0.600000 : 0.992785 : 2
+0.610000 : 0.991995 : 3
+0.620000 : 0.991265 : 3
+0.630000 : 0.990744 : 4
+0.640000 : 0.989733 : 5
+0.650000 : 0.988936 : 2
+0.660000 : 0.987720 : 4
+0.670000 : 0.986547 : 6
+0.680000 : 0.985652 : 2
+0.690000 : 0.984158 : 3
+0.700000 : 0.983557 : 4
+0.710000 : 0.981701 : 5
+0.720000 : 0.980273 : 6
+0.730000 : 0.978771 : 5
+0.740000 : 0.976506 : 6
+0.750000 : 0.974996 : 4
+0.760000 : 0.972934 : 4
+0.770000 : 0.970772 : 12
+0.780000 : 0.969554 : 6
+0.790000 : 0.967039 : 8
+0.800000 : 0.964313 : 6
+0.810000 : 0.961065 : 5
+0.820000 : 0.958603 : 6
+0.830000 : 0.955347 : 6
+0.840000 : 0.951933 : 9
+0.850000 : 0.946618 : 12
+0.860000 : 0.940066 : 10
+0.870000 : 0.937863 : 9
+0.880000 : 0.930160 : 7
+0.890000 : 0.924417 : 9
+0.900000 : 0.920970 : 11
+0.910000 : 0.912484 : 17
+0.920000 : 0.907505 : 12
+0.930000 : 0.891009 : 15
+0.940000 : 0.879916 : 11
+0.950000 : 0.871428 : 10
+0.960000 : 0.860138 : 12
+0.970000 : 0.845464 : 12
+0.980000 : 0.825643 : 12
+0.990000 : 0.804548 : 12
+1.000000 : 0.787707 : 15
+1.010000 : 0.768479 : 13
+1.020000 : 0.746442 : 16
+1.030000 : 0.724236 : 13
+1.040000 : 0.684446 : 14
+1.050000 : 0.674604 : 13
+1.060000 : 0.643551 : 18
+1.070000 : 0.610007 : 15
+1.080000 : 0.594147 : 15
+1.090000 : 0.561462 : 18
+1.100000 : 0.547534 : 18
+1.110000 : 0.526948 : 22
+1.120000 : 0.505852 : 17
+1.130000 : 0.477421 : 16
+1.140000 : 0.487439 : 16
+1.150000 : 0.443615 : 17
+1.160000 : 0.440224 : 15
+1.170000 : 0.422523 : 17
+1.180000 : 0.406063 : 17
+1.190000 : 0.385311 : 15
+1.200000 : 0.366852 : 20
+1.210000 : 0.359713 : 17
+1.220000 : 0.346021 : 18
+1.230000 : 0.341920 : 21
+1.240000 : 0.331912 : 28
+1.250000 : 0.325589 : 23
+1.260000 : 0.307852 : 19
+1.270000 : 0.296718 : 20
+1.280000 : 0.295024 : 21
+1.290000 : 0.290479 : 23
+1.300000 : 0.278434 : 21
+1.310000 : 0.293830 : 21
+1.320000 : 0.269409 : 19
+1.330000 : 0.259180 : 18
+1.340000 : 0.263348 : 18
+1.350000 : 0.254332 : 19
+1.360000 : 0.245192 : 20
+1.370000 : 0.238633 : 20
+1.380000 : 0.229081 : 20
+1.390000 : 0.240372 : 22
+1.400000 : 0.238042 : 16
+1.410000 : 0.232807 : 20
+1.420000 : 0.221434 : 18
+1.430000 : 0.211230 : 18
+1.440000 : 0.224397 : 19
+1.450000 : 0.215131 : 18
+1.460000 : 0.211967 : 17
+1.470000 : 0.195973 : 18
+1.480000 : 0.203332 : 20
+1.490000 : 0.196028 : 20
+1.500000 : 0.195912 : 21

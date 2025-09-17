@@ -73,5 +73,6 @@
         "algorithm": "cpp"
     },
     "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "C_Cpp.default.compilerPath": "/usr/local/opt/llvm/bin/clang++"
 }

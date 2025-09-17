@@ -1,4 +1,0 @@
-h st. dev. 1.500000 : average moment 0.543957 : largest cluster 3
-h st. dev. 1.500000 : average moment 0.551656 : average largest cluster 3
-h st. dev. 0.600000 : average moment 0.990004 : average largest cluster 1
-h st. dev. 0.600000 : average moment 0.988828 : average largest cluster 1
